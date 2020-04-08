@@ -1,5 +1,15 @@
 # Release History
 
+### 0.11.0 / 2020-04-08
+
+#### ⚠ BREAKING CHANGES
+
+* **security_center:** Convert google-cloud-security_center to a wrapper
+
+#### Features
+
+* Convert google-cloud-security_center to a wrapper
+
 ### 0.10.0 / 2020-04-01
 
 #### Features
