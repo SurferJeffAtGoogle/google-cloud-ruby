@@ -1,5 +1,11 @@
 # Release History
 
+### 0.1.2 / 2020-04-08
+
+#### Documentation
+
+* Update docs for IAM Policy data types.
+
 ### 0.1.1 / 2020-04-01
 
 #### Documentation
