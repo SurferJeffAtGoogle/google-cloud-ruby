@@ -1,5 +1,15 @@
 # Release History
 
+### 0.42.0 / 2020-04-08
+
+#### ⚠ BREAKING CHANGES
+
+* **speech:** use clients created by the new generator
+
+#### Features
+
+* use clients created by the new generator
+
 ### 0.41.0 / 2020-03-11
 
 #### Features
