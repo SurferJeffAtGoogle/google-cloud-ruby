@@ -1,5 +1,15 @@
 # Release History
 
+### 0.9.0 / 2020-04-08
+
+#### ⚠ BREAKING CHANGES
+
+* **asset:** use clients created by the new generator
+
+#### Features
+
+* use clients created by the new generator
+
 ### 0.8.1 / 2020-03-16
 
 #### Documentation
